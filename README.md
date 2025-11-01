@@ -1,4 +1,4 @@
-# Description of the demonstration project
+# Description of the demonstration project with some changes
 
 This is a demo project created to gain skills in working with Git.
 
